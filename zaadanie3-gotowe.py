@@ -34,4 +34,4 @@ print (miejsce_zerowe(2,4,2))
 #dodatkowe zadanie
 for i in xrange(-10,10):
     print "Funkcja kwadratowa w zadanym przedziale wynosi:"
-    print funkcja_kwadratowa(1,2,1,i)
+    print funkcja_kwadratowa(1,1,1,i)
